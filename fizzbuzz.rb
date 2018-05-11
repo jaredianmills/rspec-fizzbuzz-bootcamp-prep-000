@@ -9,5 +9,3 @@ def fizzbuzz(int)
     "FizzBuzz"
   end
 end
-
-fizzbuzz(15)
